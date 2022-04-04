@@ -1,0 +1,62 @@
+<div class = "header" >
+  <h1 class  = "header - title"> Survey Form </h1>
+</div>
+<div class = "Sub Header">
+<h4 class= "Sub - Header"><br> Let us know how we can improve freeCodeCamp </h4>
+</div>
+<div class = "information"> 
+<p> Name : <input placeholder = "Enter you name"/> 
+</p>
+<p> Email : <input placeholder = "Enter your email" 
+</p>
+<p> Age : <input placeholder = "Age" />
+</p>
+</div>
+<div class = "role">
+<label for="Role ">Which option best describes your current role?:</label>
+<select id="Role">
+  <option value="Select an option" selected>Select an option</option>
+  <option value="Student">Student</option>
+  <option value="Employed">Employed</option>
+  <option value="Unemployed">Unemployed</option>
+</select>
+</div>
+<div class ="radio-button">
+<p> How likely is that you would recommend <br> 
+    freeCodeCamp to a friend? <br>
+  <input type  ="radio" name ="answer"> Definetly <br>
+  <input type  ="radio" name ="answer"> Maybe <br>
+  <input type  ="radio" name ="answer"> Not Sure <br>
+  </p>
+  </div>
+<div>
+  <p>
+<label for="FCC">What do you like most in FCC:</label>
+<select id="FCC">
+  <option value="Select an option" selected>Select an option</option>
+  <option value="Communication">Communication</option>
+  <option value="Team">Team</option>
+  <option value="Strategy">Strategy</option>
+</select>
+    <p>
+  </div>
+<div class ="Check Box">
+  <p>Things that should be improved in the future<br>
+    (Check all that apply) :
+<input type="checkbox" id="Front-End" name="Front-End" value="1">
+<label for="Front-End">Front-end Projects</label><br>
+<input type="checkbox" id="Back-End" name="Back-End" value="2">
+<label for="Back-End"> Back-end Projects</label><br>
+<input type="checkbox" id="Data Visualization" name="Data Visualization" value="3">
+<label for="Data Visualization"> Data Visualization</label><br>
+</div>
+ 
+    
+  
+  
+
+
+  
+                              
+                      
+  
