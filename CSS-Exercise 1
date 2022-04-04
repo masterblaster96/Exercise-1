@@ -1,0 +1,36 @@
+
+h1 {
+    width:500px;
+    margin: 0 auto;
+    background: blue;
+    text-align: center;
+}
+h4 {
+    width:500px;
+    margin: 0 auto;
+    background: gray-white;
+    text-align: center;
+}
+
+.information {
+  width:500px;
+    margin: 0 auto;
+    background: gray-white;
+    text-align: center; 
+}
+
+.role  {
+  width:500px;
+    margin: 0 auto;
+    background: gray-white;
+    text-align: left; 
+}
+
+.radio-button  {
+  width:500px;
+    margin: 0 auto;
+    background: gray-white;
+    text-align: left; 
+}
+P { text-align: center }
+
